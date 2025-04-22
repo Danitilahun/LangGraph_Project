@@ -8,6 +8,13 @@ This repository explores the creation and interaction of multiple agents within 
 
 ## Key Features
 
+*   **Large Language Model (LLM) used:**
+    *   OpenAI (ChatGPT)
+    *   Grok Open source models
+    *   Google Gemini 
+    *   DeepSeek-R1-Distill-Llama-70b
+    *   Gemma model
+
 *   **Diverse Agent Types:**
     *   React Agent
     *   Human-in-the-Loop Agent
